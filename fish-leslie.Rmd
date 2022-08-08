@@ -6,7 +6,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 editing on github
+editing in rstudio
 
 ## Overview
 
